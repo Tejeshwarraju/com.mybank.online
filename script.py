@@ -1,1 +1,1 @@
-print("This is my python script")
+print("This is my python script from release branch")
